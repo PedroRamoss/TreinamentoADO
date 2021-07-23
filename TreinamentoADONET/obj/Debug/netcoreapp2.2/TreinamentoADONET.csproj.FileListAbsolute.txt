@@ -1,0 +1,17 @@
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\bin\Debug\netcoreapp2.2\TreinamentoADONET.deps.json
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\bin\Debug\netcoreapp2.2\TreinamentoADONET.runtimeconfig.json
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\bin\Debug\netcoreapp2.2\TreinamentoADONET.runtimeconfig.dev.json
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\bin\Debug\netcoreapp2.2\TreinamentoADONET.dll
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\bin\Debug\netcoreapp2.2\TreinamentoADONET.pdb
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.csprojAssemblyReference.cache
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.AssemblyInfoInputs.cache
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.AssemblyInfo.cs
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.csproj.CoreCompileInputs.cache
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.RazorAssemblyInfo.cache
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.RazorAssemblyInfo.cs
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.RazorTargetAssemblyInfo.cache
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.dll
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.pdb
+C:\Users\pramos\Desktop\Treinamento\TreinamentoADONET\TreinamentoADONET\TreinamentoADONET\obj\Debug\netcoreapp2.2\TreinamentoADONET.genruntimeconfig.cache
